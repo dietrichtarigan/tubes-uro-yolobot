@@ -1,5 +1,7 @@
 ### **diditrobot**
 
+![image](https://github.com/user-attachments/assets/e9d9b955-7042-449e-9c4c-782ce2667b01)
+
 Proyek ini adalah simulasi robot dengan empat roda menggunakan ROS 2 (Humble) dan Gazebo untuk simulasi. Berikut adalah penjelasan kode dan langkah-langkah pengoperasian robot:
 
 ---
