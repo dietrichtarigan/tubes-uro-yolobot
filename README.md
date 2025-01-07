@@ -23,13 +23,8 @@ Proyek ini adalah simulasi robot dengan empat roda menggunakan ROS 2 (Humble) da
         - **`libgazebo_ros_diff_drive`** untuk mengontrol roda depan dan belakang.
         - Plugin ini digunakan sebagai pengganti **`libgazebo_ros_skid_steer_drive`**, karena plugin skid steer tidak berfungsi dengan baik di konfigurasi saat ini.
     - Plugin memungkinkan kontrol gerak robot melalui perintah kecepatan (_velocity commands_).
-3. **Mode Resolusi Model Robot:**
-    
-    - File **`robot.urdf.xacro`** menyediakan dua model robot:
-        - **Model resolusi rendah**: **`robot_core_lr.xacro`**.
-        - **Model resolusi tinggi**: **`robot_core_hr.xacro`**.
-    - Anda dapat beralih antar mode dengan mengomentari atau mengaktifkan salah satu dari file tersebut di **`robot.urdf.xacro`**.
-4. **Mengontrol Robot:**
+
+3. **Mengontrol Robot:**
     
     - Robot dapat dikontrol menggunakan paket **teleop_twist_keyboard**:
         
@@ -37,7 +32,7 @@ Proyek ini adalah simulasi robot dengan empat roda menggunakan ROS 2 (Humble) da
         ros2 run teleop_twist_keyboard teleop_twist_keyboard
         ```
         
-    - Paket ini memungkinkan Anda untuk menggerakkan robot menggunakan input keyboard dalam terminal.
+    - Paket ini memungkinkan kita untuk menggerakkan robot menggunakan input keyboard dalam terminal.
 
 ---
 
