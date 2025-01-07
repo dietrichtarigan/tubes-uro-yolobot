@@ -1,0 +1,4 @@
+Invoking command in '/home/dietrich/delta/build/diditrobot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dietrich/delta/build/diditrobot -- -j16 -l16
+Invoked command in '/home/dietrich/delta/build/diditrobot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dietrich/delta/build/diditrobot -- -j16 -l16
+Invoking command in '/home/dietrich/delta/build/diditrobot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dietrich/delta/build/diditrobot
+Invoked command in '/home/dietrich/delta/build/diditrobot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dietrich/delta/build/diditrobot

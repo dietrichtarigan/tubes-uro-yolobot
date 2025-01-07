@@ -1,0 +1,50 @@
+[0.014s] Invoking command in '/home/dietrich/delta/build/diditrobot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dietrich/delta/build/diditrobot -- -j16 -l16
+[0.125s] Invoked command in '/home/dietrich/delta/build/diditrobot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dietrich/delta/build/diditrobot -- -j16 -l16
+[0.139s] Invoking command in '/home/dietrich/delta/build/diditrobot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dietrich/delta/build/diditrobot
+[0.149s] -- Install configuration: ""
+[0.149s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/config
+[0.150s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/config/empty.yaml
+[0.150s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/motor1_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/motor2_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/wheel1_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/motor4_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/wheel4_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/tire2_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/wheel3_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/tire3_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/tire1_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/motor3_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/chassis_link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/tire4_Link.STL
+[0.151s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/meshes/wheel2_Link.STL
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/worlds
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/worlds/empty.world
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/description
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/description/robot.urdf.xacro
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/description/gazebo_control.xacro
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/description/robot_core_lr.xacro
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/description/inertial_macros.xacro
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/description/robot_core_hr.xacro
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/img
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/img/hr_model.png
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/img/lr_model.png
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/launch
+[0.152s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/launch/launch_sim.launch.py
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/launch/rsp.launch.py
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/ament_index/resource_index/package_run_dependencies/diditrobot
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/ament_index/resource_index/parent_prefix_path/diditrobot
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/environment/ament_prefix_path.sh
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/environment/ament_prefix_path.dsv
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/environment/path.sh
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/environment/path.dsv
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/local_setup.bash
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/local_setup.sh
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/local_setup.zsh
+[0.153s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/local_setup.dsv
+[0.153s] -- Installing: /home/dietrich/delta/install/diditrobot/share/diditrobot/package.dsv
+[0.154s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/ament_index/resource_index/packages/diditrobot
+[0.154s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/cmake/diditrobotConfig.cmake
+[0.154s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/cmake/diditrobotConfig-version.cmake
+[0.154s] -- Up-to-date: /home/dietrich/delta/install/diditrobot/share/diditrobot/package.xml
+[0.157s] Invoked command in '/home/dietrich/delta/build/diditrobot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dietrich/delta/build/diditrobot

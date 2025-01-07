@@ -1,0 +1,4 @@
+source;share/diditrobot/local_setup.bash
+source;share/diditrobot/local_setup.dsv
+source;share/diditrobot/local_setup.sh
+source;share/diditrobot/local_setup.zsh
