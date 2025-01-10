@@ -1,5 +1,5 @@
 # Setup dan Penggunaan Simulasi Nav2 dengan Joystick
-
+Link Youtube: 
 Dokumentasi ini menjelaskan langkah-langkah untuk mengaktifkan simulasi Nav2 pada robot menggunakan joystick sebagai kontroler.
 
 ## Persyaratan
@@ -108,3 +108,5 @@ Pastikan joystick Anda dikenali dan berfungsi dengan baik.
 3. **Kesalahan pada Konfigurasi:**
    - Pastikan file `joystick_config.yaml` sudah sesuai dengan konfigurasi joystick yang Anda gunakan.
    - Jika ada kesalahan saat menjalankan perintah, periksa log untuk informasi lebih lanjut.
+
+### Refrensi: https://docs.nav2.org/setup_guides/index.html
