@@ -1,5 +1,5 @@
 # Setup dan Penggunaan Simulasi Nav2 dengan Joystick
-Link Youtube: 
+### Link Youtube: https://youtu.be/H4tLgEx8W-I
 Dokumentasi ini menjelaskan langkah-langkah untuk mengaktifkan simulasi Nav2 pada robot menggunakan joystick sebagai kontroler.
 
 ## Persyaratan
